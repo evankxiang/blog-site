@@ -1,7 +1,7 @@
 ---
 title: Markdown Test Page
 publishDate: 12 Aug 2024
-description: A sample page with the most common elements of an article, including headings, paragraphs, lists, and images. Use it as a starting point for applying your own styles.
+description: For personal reference.
 ---
 
 ![Illustration of woman using a computer receiving likes](/assets/blog/casual-life-3d-likes.webp)
